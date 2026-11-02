@@ -1,0 +1,726 @@
+{
+  "game_history": [
+    {
+      "id": 44,
+      "secret": "895",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "103",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "124",
+          "hint": "Pico"
+        },
+        {
+          "guess": "205",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "206",
+          "hint": "Gợi ý: Fermi - ❌ GIAN LẬN!"
+        }
+      ],
+      "result": "MÁY THẮNG - Phát hiện gian lận",
+      "reason": "Gợi ý sai - Gợi ý này khiến không còn số nào hợp lệ",
+      "timestamp": "08:39:22 08/01/2026",
+      "mode": "MÁY CHƠI",
+      "total_time": 12.600979
+    },
+    {
+      "id": 43,
+      "secret": "895",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "MÁY THẮNG - Sau 1 lượt",
+      "reason": "",
+      "timestamp": "08:39:07 08/01/2026",
+      "mode": "MÁY CHƠI",
+      "total_time": 13.494603
+    },
+    {
+      "id": 42,
+      "secret": "483",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "456",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "789",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "483",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 4 lượt",
+      "reason": "",
+      "timestamp": "08:27:17 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 18.58112
+    },
+    {
+      "id": 41,
+      "secret": "402",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "456",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "026",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "250",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "502",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "402",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 6 lượt",
+      "reason": "",
+      "timestamp": "07:59:47 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 95.994495
+    },
+    {
+      "id": 40,
+      "secret": "397",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "345",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "789",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "379",
+          "hint": "Fermi Pico Pico"
+        },
+        {
+          "guess": "397",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 5 lượt",
+      "reason": "",
+      "timestamp": "07:57:17 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 23.234644
+    },
+    {
+      "id": 39,
+      "secret": "958",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "345",
+          "hint": "Pico"
+        },
+        {
+          "guess": "789",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "478",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "857",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "598",
+          "hint": "Fermi Pico Pico"
+        },
+        {
+          "guess": "985",
+          "hint": "Fermi Pico Pico"
+        },
+        {
+          "guess": "859",
+          "hint": "Fermi Pico Pico"
+        },
+        {
+          "guess": "958",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 9 lượt",
+      "reason": "",
+      "timestamp": "07:56:38 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 183.003903
+    },
+    {
+      "id": 38,
+      "secret": "467",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "345",
+          "hint": "Pico"
+        },
+        {
+          "guess": "789",
+          "hint": "Pico"
+        },
+        {
+          "guess": "486",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "863",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "854",
+          "hint": "Pico"
+        },
+        {
+          "guess": "467",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 7 lượt",
+      "reason": "",
+      "timestamp": "07:53:19 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 112.921753
+    },
+    {
+      "id": 37,
+      "secret": "310",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "345",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "215",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "025",
+          "hint": "Pico"
+        },
+        {
+          "guess": "310",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 5 lượt",
+      "reason": "",
+      "timestamp": "07:46:42 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 60.50157
+    },
+    {
+      "id": 36,
+      "secret": "980",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico"
+        },
+        {
+          "guess": "345",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "678",
+          "hint": "Pico"
+        },
+        {
+          "guess": "906",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "927",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "962",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "920",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "980",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 8 lượt",
+      "reason": "",
+      "timestamp": "07:45:29 08/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 127.497112
+    },
+    {
+      "id": 35,
+      "secret": "870",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico"
+        },
+        {
+          "guess": "345",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "678",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "670",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "680",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "867",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "672",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "671",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "870",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 9 lượt",
+      "reason": "",
+      "timestamp": "10:15:12 07/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 164.924348
+    },
+    {
+      "id": 34,
+      "secret": "540",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico"
+        },
+        {
+          "guess": "345",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "234",
+          "hint": "Pico"
+        },
+        {
+          "guess": "452",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "540",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 5 lượt",
+      "reason": "",
+      "timestamp": "10:12:19 07/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 64.580575
+    },
+    {
+      "id": 33,
+      "secret": "824",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico"
+        },
+        {
+          "guess": "345",
+          "hint": "Pico"
+        },
+        {
+          "guess": "678",
+          "hint": "Pico"
+        },
+        {
+          "guess": "147",
+          "hint": "Pico"
+        },
+        {
+          "guess": "258",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "512",
+          "hint": "Pico"
+        },
+        {
+          "guess": "785",
+          "hint": "Pico"
+        },
+        {
+          "guess": "821",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "824",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 9 lượt",
+      "reason": "",
+      "timestamp": "10:11:02 07/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 82.148154
+    },
+    {
+      "id": 32,
+      "secret": "706",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico"
+        },
+        {
+          "guess": "345",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "678",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "178",
+          "hint": "Pico"
+        },
+        {
+          "guess": "267",
+          "hint": "Pico Pico"
+        },
+        {
+          "guess": "806",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "861",
+          "hint": "Pico"
+        },
+        {
+          "guess": "706",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 8 lượt",
+      "reason": "",
+      "timestamp": "10:05:45 07/01/2026",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 71.080309
+    },
+    {
+      "id": 31,
+      "secret": "378",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "345",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "678",
+          "hint": "Fermi Fermi"
+        },
+        {
+          "guess": "367",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "467",
+          "hint": "Pico"
+        },
+        {
+          "guess": "389",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "378",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 7 lượt",
+      "reason": "",
+      "timestamp": "10:08:28 28/12/2025",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 73.328018
+    },
+    {
+      "id": 30,
+      "secret": "792",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "123",
+          "hint": "Pico"
+        },
+        {
+          "guess": "456",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "789",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "089",
+          "hint": "Pico"
+        },
+        {
+          "guess": "718",
+          "hint": "Fermi"
+        },
+        {
+          "guess": "972",
+          "hint": "Fermi Pico Pico"
+        },
+        {
+          "guess": "792",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG CUỘC - Sau 8 lượt",
+      "reason": "",
+      "timestamp": "08:00:18 28/12/2025",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 72.774465
+    },
+    {
+      "id": 29,
+      "secret": "405",
+      "guesses": [
+        {
+          "guess": "012",
+          "hint": "Pico"
+        },
+        {
+          "guess": "123",
+          "hint": "Bagels"
+        },
+        {
+          "guess": "456",
+          "hint": "Fermi Pico"
+        },
+        {
+          "guess": "405",
+          "hint": "🎉 CHÍNH XÁC! 🎉"
+        }
+      ],
+      "result": "THẮNG - Sau 4 lượt",
+      "reason": "",
+      "timestamp": "07:44:20 28/12/2025",
+      "mode": "NGƯỜI CHƠI",
+      "total_time": 29.357443
+    }
+  ],
+  "game_id_counter": 45,
+  "player_rankings": [
+    {
+      "rank": 1,
+      "score": 7000,
+      "turns": 4,
+      "date": "08/01/2026",
+      "secret": "483",
+      "attempts": 4,
+      "total_time": 18.58112,
+      "time_str": "00:18",
+      "timestamp": "08:27:17 08/01/2026"
+    },
+    {
+      "rank": 2,
+      "score": 6000,
+      "turns": 5,
+      "date": "08/01/2026",
+      "secret": "397",
+      "attempts": 5,
+      "total_time": 23.234644,
+      "time_str": "00:23",
+      "timestamp": "07:57:17 08/01/2026"
+    },
+    {
+      "rank": 3,
+      "score": 6000,
+      "turns": 5,
+      "date": "08/01/2026",
+      "secret": "310",
+      "attempts": 5,
+      "total_time": 60.50157,
+      "time_str": "01:00",
+      "timestamp": "07:46:42 08/01/2026"
+    },
+    {
+      "rank": 4,
+      "score": 6000,
+      "turns": 5,
+      "date": "07/01/2026",
+      "secret": "540",
+      "attempts": 5,
+      "total_time": 64.580575,
+      "time_str": "01:04",
+      "timestamp": "10:12:19 07/01/2026"
+    },
+    {
+      "rank": 5,
+      "score": 5000,
+      "turns": 6,
+      "date": "08/01/2026",
+      "secret": "402",
+      "attempts": 6,
+      "total_time": 95.994495,
+      "time_str": "01:35",
+      "timestamp": "07:59:47 08/01/2026"
+    },
+    {
+      "rank": 6,
+      "score": 4000,
+      "turns": 7,
+      "date": "28/12/2025",
+      "secret": "378",
+      "attempts": 7,
+      "total_time": 73.328018,
+      "time_str": "01:13",
+      "timestamp": "10:08:28 28/12/2025"
+    },
+    {
+      "rank": 7,
+      "score": 4000,
+      "turns": 7,
+      "date": "08/01/2026",
+      "secret": "467",
+      "attempts": 7,
+      "total_time": 112.921753,
+      "time_str": "01:52",
+      "timestamp": "07:53:19 08/01/2026"
+    },
+    {
+      "rank": 8,
+      "score": 3000,
+      "turns": 8,
+      "date": "07/01/2026",
+      "secret": "706",
+      "attempts": 8,
+      "total_time": 71.080309,
+      "time_str": "01:11",
+      "timestamp": "10:05:45 07/01/2026"
+    },
+    {
+      "rank": 9,
+      "score": 3000,
+      "turns": 8,
+      "date": "28/12/2025",
+      "secret": "792",
+      "attempts": 8,
+      "total_time": 72.774465,
+      "time_str": "01:12",
+      "timestamp": "08:00:18 28/12/2025"
+    },
+    {
+      "rank": 10,
+      "score": 3000,
+      "turns": 8,
+      "date": "08/01/2026",
+      "secret": "980",
+      "attempts": 8,
+      "total_time": 127.497112,
+      "time_str": "02:07",
+      "timestamp": "07:45:29 08/01/2026"
+    },
+    {
+      "rank": 11,
+      "score": 2000,
+      "turns": 9,
+      "date": "07/01/2026",
+      "secret": "824",
+      "attempts": 9,
+      "total_time": 82.148154,
+      "time_str": "01:22",
+      "timestamp": "10:11:02 07/01/2026"
+    },
+    {
+      "rank": 12,
+      "score": 2000,
+      "turns": 9,
+      "date": "07/01/2026",
+      "secret": "870",
+      "attempts": 9,
+      "total_time": 164.924348,
+      "time_str": "02:44",
+      "timestamp": "10:15:12 07/01/2026"
+    },
+    {
+      "rank": 13,
+      "score": 2000,
+      "turns": 9,
+      "date": "08/01/2026",
+      "secret": "958",
+      "attempts": 9,
+      "total_time": 183.003903,
+      "time_str": "03:03",
+      "timestamp": "07:56:38 08/01/2026"
+    }
+  ]
+}

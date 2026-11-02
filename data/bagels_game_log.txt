@@ -1,0 +1,216 @@
+=== Lần chơi #1 - 08:00:18 28/12/2025 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 792
+Kết quả: THẮNG CUỘC - Sau 8 lượt
+Tổng thời gian chơi: 01:12
+Lịch sử đoán:
+  Lượt 1: 012 → Fermi
+  Lượt 2: 123 → Pico
+  Lượt 3: 456 → Bagels
+  Lượt 4: 789 → Fermi Pico
+  Lượt 5: 089 → Pico
+  Lượt 6: 718 → Fermi
+  Lượt 7: 972 → Fermi Pico Pico
+  Lượt 8: 792 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #31 - 10:08:28 28/12/2025 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 378
+Kết quả: THẮNG CUỘC - Sau 7 lượt
+Tổng thời gian chơi: 01:13
+Lịch sử đoán:
+  Lượt 1: 012 → Bagels
+  Lượt 2: 345 → Fermi
+  Lượt 3: 678 → Fermi Fermi
+  Lượt 4: 367 → Fermi Pico
+  Lượt 5: 467 → Pico
+  Lượt 6: 389 → Fermi Pico
+  Lượt 7: 378 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #32 - 10:05:45 07/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 706
+Kết quả: THẮNG CUỘC - Sau 8 lượt
+Tổng thời gian chơi: 01:11
+Lịch sử đoán:
+  Lượt 1: 012 → Pico
+  Lượt 2: 345 → Bagels
+  Lượt 3: 678 → Pico Pico
+  Lượt 4: 178 → Pico
+  Lượt 5: 267 → Pico Pico
+  Lượt 6: 806 → Fermi Fermi
+  Lượt 7: 861 → Pico
+  Lượt 8: 706 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #33 - 10:11:02 07/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 824
+Kết quả: THẮNG CUỘC - Sau 9 lượt
+Tổng thời gian chơi: 01:22
+Lịch sử đoán:
+  Lượt 1: 012 → Pico
+  Lượt 2: 345 → Pico
+  Lượt 3: 678 → Pico
+  Lượt 4: 147 → Pico
+  Lượt 5: 258 → Pico Pico
+  Lượt 6: 512 → Pico
+  Lượt 7: 785 → Pico
+  Lượt 8: 821 → Fermi Fermi
+  Lượt 9: 824 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #34 - 10:12:19 07/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 540
+Kết quả: THẮNG CUỘC - Sau 5 lượt
+Tổng thời gian chơi: 01:04
+Lịch sử đoán:
+  Lượt 1: 012 → Pico
+  Lượt 2: 345 → Fermi Pico
+  Lượt 3: 234 → Pico
+  Lượt 4: 452 → Pico Pico
+  Lượt 5: 540 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #35 - 10:15:12 07/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 870
+Kết quả: THẮNG CUỘC - Sau 9 lượt
+Tổng thời gian chơi: 02:44
+Lịch sử đoán:
+  Lượt 1: 012 → Pico
+  Lượt 2: 345 → Bagels
+  Lượt 3: 678 → Fermi Pico
+  Lượt 4: 670 → Fermi Fermi
+  Lượt 5: 680 → Fermi Pico
+  Lượt 6: 867 → Fermi Pico
+  Lượt 7: 672 → Fermi
+  Lượt 8: 671 → Fermi
+  Lượt 9: 870 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #36 - 07:45:29 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 980
+Kết quả: THẮNG CUỘC - Sau 8 lượt
+Tổng thời gian chơi: 02:07
+Lịch sử đoán:
+  Lượt 1: 012 → Pico
+  Lượt 2: 345 → Bagels
+  Lượt 3: 678 → Pico
+  Lượt 4: 906 → Fermi Pico
+  Lượt 5: 927 → Fermi
+  Lượt 6: 962 → Fermi
+  Lượt 7: 920 → Fermi Fermi
+  Lượt 8: 980 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #37 - 07:46:42 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 310
+Kết quả: THẮNG CUỘC - Sau 5 lượt
+Tổng thời gian chơi: 01:00
+Lịch sử đoán:
+  Lượt 1: 012 → Fermi Pico
+  Lượt 2: 345 → Fermi
+  Lượt 3: 215 → Fermi
+  Lượt 4: 025 → Pico
+  Lượt 5: 310 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #38 - 07:53:19 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 467
+Kết quả: THẮNG CUỘC - Sau 7 lượt
+Tổng thời gian chơi: 01:52
+Lịch sử đoán:
+  Lượt 1: 012 → Bagels
+  Lượt 2: 345 → Pico
+  Lượt 3: 789 → Pico
+  Lượt 4: 486 → Fermi Pico
+  Lượt 5: 863 → Fermi
+  Lượt 6: 854 → Pico
+  Lượt 7: 467 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #39 - 07:56:38 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 958
+Kết quả: THẮNG CUỘC - Sau 9 lượt
+Tổng thời gian chơi: 03:03
+Lịch sử đoán:
+  Lượt 1: 012 → Bagels
+  Lượt 2: 345 → Pico
+  Lượt 3: 789 → Pico Pico
+  Lượt 4: 478 → Fermi
+  Lượt 5: 857 → Fermi Pico
+  Lượt 6: 598 → Fermi Pico Pico
+  Lượt 7: 985 → Fermi Pico Pico
+  Lượt 8: 859 → Fermi Pico Pico
+  Lượt 9: 958 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #40 - 07:57:17 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 397
+Kết quả: THẮNG CUỘC - Sau 5 lượt
+Tổng thời gian chơi: 00:23
+Lịch sử đoán:
+  Lượt 1: 012 → Bagels
+  Lượt 2: 345 → Fermi
+  Lượt 3: 789 → Pico Pico
+  Lượt 4: 379 → Fermi Pico Pico
+  Lượt 5: 397 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #41 - 07:59:47 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 402
+Kết quả: THẮNG CUỘC - Sau 6 lượt
+Tổng thời gian chơi: 01:35
+Lịch sử đoán:
+  Lượt 1: 012 → Fermi Pico
+  Lượt 2: 456 → Fermi
+  Lượt 3: 026 → Pico Pico
+  Lượt 4: 250 → Pico Pico
+  Lượt 5: 502 → Fermi Fermi
+  Lượt 6: 402 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #42 - 08:27:17 08/01/2026 ===
+Chế độ: NGƯỜI CHƠI
+Số bí mật: 483
+Kết quả: THẮNG CUỘC - Sau 4 lượt
+Tổng thời gian chơi: 00:18
+Lịch sử đoán:
+  Lượt 1: 012 → Bagels
+  Lượt 2: 456 → Fermi
+  Lượt 3: 789 → Fermi
+  Lượt 4: 483 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #43 - 08:39:07 08/01/2026 ===
+Chế độ: MÁY CHƠI
+Số bí mật: 895
+Kết quả: MÁY THẮNG - Sau 1 lượt
+Tổng thời gian chơi: 00:13
+Lịch sử đoán:
+  Lượt 1: 012 → 🎉 CHÍNH XÁC! 🎉
+==================================================
+
+=== Lần chơi #44 - 08:39:22 08/01/2026 ===
+Chế độ: MÁY CHƠI
+Số bí mật: 895
+Kết quả: MÁY THẮNG - Phát hiện gian lận
+Tổng thời gian chơi: 00:12
+Lý do: Gợi ý sai - Gợi ý này khiến không còn số nào hợp lệ
+Lịch sử đoán:
+  Lượt 1: 012 → Pico Pico
+  Lượt 2: 103 → Fermi
+  Lượt 3: 124 → Pico
+  Lượt 4: 205 → Fermi Fermi
+  Lượt 5: 206 → Gợi ý: Fermi - ❌ GIAN LẬN!
+==================================================
